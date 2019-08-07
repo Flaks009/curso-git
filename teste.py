@@ -15,17 +15,6 @@ def repeatedString(s, n):
 
 
 
-# def repeatedString2(s, n):
-#     soma = 0
-#     i = 0
-#     j = 0
-#     size = len(s)
-#     while j < n:
-#         if i == size:
-#             i = 0
-#         i += 1
-#         j += 1
-#     return soma
 
 print(repeatedString('aab', 882787))
 print(repeatedString('aba', 10))
